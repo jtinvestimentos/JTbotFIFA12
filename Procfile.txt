@@ -1,0 +1,1 @@
+worker: python <FIFA 10 - Pré Bot>.py
